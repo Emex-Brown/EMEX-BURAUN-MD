@@ -1,0 +1,23 @@
+{
+  "name": "emex-buraun-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emex-Brown/EMEX-BURAUN-MD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emex-Brown/EMEX-BURAUN-MD/issues"
+  },
+  "homepage": "https://github.com/Emex-Brown/EMEX-BURAUN-MD#readme",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18"
+  }
+}

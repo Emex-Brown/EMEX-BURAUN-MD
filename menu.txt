@@ -1,0 +1,36 @@
+🖼️ ⌈ 𝙀𝙈𝙀𝙓-𝘽𝙐𝙍𝘼𝙐𝙉 𝙈𝘿 ⌋  
+「 Image: emex-buraun bot menu.jpg 」
+
+╔══════❖『 ⚙️ SYSTEM INFO 』❖══════╗
+👤 Owner: Emex Buraun  
+💻 Engine: Baileys MD  
+🛰️ Mode: Public  
+📍 Prefix: `.`  
+📀 Version: 1.0.0 Alpha  
+╚════════════════════════════╝
+
+🧭 *Command Categories Available:*
+
+╭────────────────────────────────╮
+│ 🧠  .core menu        – Bot identity, status       │
+│ 🤖  .ai menu          – Ask AI, image & text AI    │
+│ 📥  .download menu    – Music, video, docs         │
+│ 📸  .media menu       – TikTok, IG, YouTube dls    │
+│ 👥  .group menu       – Admin tools, settings      │
+│ 🎭  .fun menu         – Truth/Dare, memes, quotes  │
+│ 🎌  .anime menu       – Anime search, waifus       │
+│ 🛠️  .tools menu       – QR code, convert, resize   │
+│ 🎙️  .voice menu       – Voice FX, text-to-speech   │
+│ 🎨  .style menu       – Customize bot theme (soon) │
+│ 🎮  .games menu       – Arcade & challenges        │
+│ 💰  .crypto menu      – Wallet, token info, price  │
+│ 🛒  .market menu      – Marketplace (coming soon)  │
+│ 🧩  .system menu      – Dev settings (owner only)  │
+╰────────────────────────────────╯
+
+📌 *How to use:*  
+To access any category, simply type the name followed by `menu`.  
+For example: `.ai menu` or `.fun menu`
+
+━━━━━━━⚡ *EMEX-BURAUN MD* ⚡━━━━━━━
+            _Founded by Emex Brown_
